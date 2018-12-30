@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "erere",
+      "description": "ererer",
+      "id": 1
+    },
+    {
+      "title": "Deneme",
+      "description": "Deneme",
+      "id": 2
+    },
+    {
+      "title": "Yahuuu",
+      "description": "Yihuaaaaaa",
+      "userId": "115767507786586327468",
+      "id": 3
+    },
+    {
+      "title": "TEST",
+      "description": "TEST",
+      "userId": "115767507786586327468",
+      "id": 4
+    },
+    {
+      "title": "Unexpected",
+      "description": "Hoydaaaaaa a a a a  a a",
+      "userId": "115767507786586327468",
+      "id": 5
+    },
+    {
+      "title": "Unexpected",
+      "description": "Hoydaaaaaa a a a a  a a",
+      "userId": "115767507786586327468",
+      "id": 6
+    }
+  ]
+}
